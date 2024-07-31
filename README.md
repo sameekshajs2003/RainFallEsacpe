@@ -21,9 +21,9 @@ The game ends either when the player collides with a raindrop (in "Run!!!" mode)
 
 ## Usage
 
-To start the game, run the `mainmenu.py` file:
+To start the game, run the `rainfallescape.py` file:
 ```bash
-python mainmenu.py
+python rainfallescape.py
 
 - Arrow Keys: Move the player character.
 - Enter: Restart the game after a game over.
