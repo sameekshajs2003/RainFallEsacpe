@@ -25,3 +25,8 @@ To start the game, run the `mainmenu.py` file:
 ```bash
 python mainmenu.py
 
+## Control
+
+- Arrow Keys: Move the player character.
+- Enter: Restart the game after a game over.
+- Q: Return to the main menu from the game over screen.
